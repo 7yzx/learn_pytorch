@@ -1,0 +1,9 @@
+[submodule "Z2M/repo"]
+	path = Z2M/repo
+	url = git@github.com:mrdbourke/pytorch-deep-learning.git
+[submodule "D2l/d2l-zh"]
+	path = D2l/d2l-zh
+	url = git@github.com:d2l-ai/d2l-zh.git
+[submodule "D2l/d2l-en"]
+	path = D2l/d2l-en
+	url = git@github.com:d2l-ai/d2l-en.git
